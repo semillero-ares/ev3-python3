@@ -34,10 +34,10 @@ from .sound import (
 from .touch import Touch
 from .infrared import Infrared
 from .ultrasonic import Ultrasonic
+from .uart import UART
 from .gyro import Gyro
 from .vehicle import (
-        TwoWheelVehicle,
-        VehiclePosition,
-        MotorPositions
+    TwoWheelVehicle,
+    VehiclePosition,
+    MotorPositions
 )
-
