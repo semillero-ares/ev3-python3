@@ -15,7 +15,7 @@ Installation
 
 ::
 
-  python3 -m pip install --user ev3_dc
+  python3 -m pip install git+https://github.com/semillero-ares/ev3-python3.git
 
 Examples
 --------
